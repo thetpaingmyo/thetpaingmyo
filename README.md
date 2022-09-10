@@ -1,6 +1,5 @@
 <h1 align="center">Welcome! I'm Thet Paing Myo</h1>
 <h3 align="center">A dedicated learner who loves Data Science and Web Development.</h3>
-<img align="right" alt="profile" width="250" src="https://res.cloudinary.com/cloud112/image/upload/v1610307369/PortfolioWebsite/profile-picture_g1xd5e.png"></img>
 
 - 🔭 I’m currently working on **Google Data Analytics Professional Certificate** and
 
