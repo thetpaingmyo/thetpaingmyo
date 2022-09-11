@@ -9,8 +9,11 @@
 
 - 💬 Ask me about **Python, JavaScript, MySQL, MongoDB**
 
-- 📫 Please reach me through **thetpaingmyo1995@gmail.com**
-
+<h3 align="left">Please reach me through:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/thet-paing-myo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thet-paing-myo/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/thetpaimyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/thetpaimyo" height="30" width="40" /></a>
+</p>
 
 <p align="left">
 </p>
