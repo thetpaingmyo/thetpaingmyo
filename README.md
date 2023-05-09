@@ -5,8 +5,6 @@
 
 - 🌱 Growing my **Statistics and Machine Learning** skills
 
-- 👨‍💻 You may want to visit [my portfolio website](http://thetpaingmyo.herokuapp.com/)
-
 - 💬 Ask me about **Python, JavaScript, MySQL, MongoDB**
 
 <h3 align="left">Please reach me through:</h3>
